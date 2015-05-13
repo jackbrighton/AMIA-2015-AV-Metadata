@@ -36,3 +36,23 @@ United States
 jackb@illlinois.edu
 Topic: Session moderator
 
+
+Proposer Information:
+
+Jack Brighton
+Illinois Public Media
+300 N. Goodwin Avenue
+Urbana
+IL
+61801
+United States
+jackb@illinois.edu
+217-898-5052
+
+Session Title: A Grand Unified Theory: PBCore, EBUCore, and the Semantic Web
+
+Session Type: Panel Discussion
+
+Length of Session Requested: 60 minutes
+
+
