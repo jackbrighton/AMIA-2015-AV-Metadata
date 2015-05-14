@@ -83,5 +83,25 @@ jackb@illinois.edu
 217-898-5052
 
 
+## Session Chair
 
+Casey E. Davis
+WGBH Educational Foundation
+One Guest Street, Boston, MA 02135.
+United States
+Casey_Davis@wgbh.org
+617-300-5400
+
+
+## Co-Chair
+
+Jack Brighton
+Illinois Public Media
+300 N. Goodwin Avenue
+Urbana
+IL
+61801
+United States
+jackb@illinois.edu
+217-898-5052
 
