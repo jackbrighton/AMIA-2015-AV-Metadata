@@ -25,7 +25,7 @@ This session is intended for those with an intermediate or greater understanding
 
 ## OUTCOMES OF THIS SESSION/WORKSHOP (1 to 5 sentences)
 
-Archivists using the PBCore standard will learn about changes in the PBCore 2.1 schema, the new PBCore website and documentation, and the new relationship with the EBU community and EBUCore ontology. They will gain an understanding of how they can continue using PBCore as a data model and XML format for metadata exchange, but also how it can now be leveraged with EBUCore in semantic web applications. Attendees will get an insight into the evolution of PBCore and EBUCore, and better understand how RDF and linked data can serve future needs of moving image archives and their constituents and users.
+Archivists using the PBCore standard will learn about changes in the PBCore 2.1 schema, the new PBCore website and documentation, and the new relationship with the EBU community and EBUCore ontology. They will gain a practical understanding of how they can continue using PBCore as a data model and XML format for metadata exchange, but also how it can now be leveraged with EBUCore in semantic web applications. Attendees will get insight into the evolution of PBCore and EBUCore, and better understand how RDF and linked data can serve future needs of moving image archives and their constituents and users.
 
 
 ## Presenters:
