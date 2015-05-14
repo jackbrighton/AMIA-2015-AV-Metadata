@@ -20,7 +20,11 @@ The PBCore and EBUCore communities formed a working group to answer this questio
 
 ## AUDIENCE FOR THE SESSION/WORKSHOP (3 to five sentences)
 
-This session is intended for those with an intermediate or greater understanding of the role of metadata in archival practice. It will be of great interest to anyone working with PBCore or EBUCore, or who wants to understand these standards. Presenters will refer to metadata concepts and schema familiar to archivists and A/V professionals, and explain how the evolution of PBCore and its new relationship with EBUCore may broaden opportunities for collaboration and interoperability. Presenters include key subject matter experts and developers from the EBU and PBCore communities, and the session will provide an opportunity to discuss in depth questions from attendees.
+This session is intended for those with an intermediate or greater understanding of the role of metadata in archival practice. It will be of great interest to anyone working with PBCore or EBUCore, or who wants to understand these standards. We expect this session will appeal to archivists based in both the United States and Europe. Presenters will refer to metadata concepts and schema familiar to archivists and A/V professionals, and explain how the evolution of PBCore and its new relationship with EBUCore may broaden opportunities for collaboration and interoperability. Presenters include key subject matter experts and developers from the EBU and PBCore communities, and the session will provide an opportunity to discuss in depth questions from attendees.
+
+## OUTCOMES OF THIS SESSION/WORKSHOP (1 to 5 sentences)
+
+Archivists using the PBCore standard will learn about changes in the PBCore 2.1 schema, the new PBCore website and documentation, and the new relationship with the EBU community and EBUCore ontology. They will gain an understanding of how they can continue using PBCore as a data model and XML format for metadata exchange, but also how it can now be leveraged with EBUCore in semantic web applications. Attendees will get an insight into the evolution of PBCore and EBUCore, and better understand how RDF and linked data can serve future needs of moving image archives and their constituents and users.
 
 
 ## Presenters:
