@@ -16,6 +16,10 @@ The adoption of PBCore in the United States has paralleled the rise of EBUCore i
 
 The PBCore and EBUCore communities formed a working group to answer this question. Coinciding with the release of the PBCore 2.1 Schema in May 2015, it was decided to leverage the excellent work already completed by the European community. This paves the way for the adoption by PBCore of the EBUCore ontology, and unifying the vocabularies of both metadata standards. PBCore users can continue leveraging the simplicity of PBCore, as nothing about PBCore 2.1 breaks compatibility with existing applications. If they wish, PBCore users can now also take advantage of EBUCore’s integration with RDF and semantic web applications. This opens new opportunities for closer collaboration with the Europeana community among others, and new linked data applications for archival collections using PBCore metadata. During this session, working group leaders from EBUCore and PBCore will tell the story of this work, what it means, and how it can be leveraged by users of both communities.
 
+## AUDIENCE FOR THE SESSION/WORKSHOP (3 to five sentences)
+
+This session is intended for those with an intermediate or greater understanding of the role of metadata in archival practice. It will be of great interest to anyone working with PBCore or EBUCore, or who wants to understand these standards. Presenters will refer to metadata concepts and schema familiar to archivists and A/V professionals, and explain how the evolution of PBCore and its new relationship with EBUCore may broaden opportunities for collaboration and interoperability. Presenters include key subject matter experts and developers from the EBU and PBCore communities, and the session will provide an opportunity to discuss in depth questions from attendees.
+
 
 ## Presenters:
 
