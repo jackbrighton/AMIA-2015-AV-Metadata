@@ -10,7 +10,6 @@ Length of Session Requested: 60 minutes
 
 The adoption of PBCore in the United States has paralleled the rise of EBUCore in Europe as core metadata standards for audiovisual materials. During the past year, the two communities have formed a working group to explore ways to align PBCore and EBUCore for interoperability. Coinciding with the release of the PBCore 2.1 Schema in May 2015, it was decided to stop reinventing existing vocabularies, and instead leverage excellent work already completed by the European community. This paves the way for the adoption by PBCore of the EBUCore ontology, and unifying the vocabularies of both metadata standards. This means PBCore users can now also take advantage of EBUCore’s integration with RDF and semantic web applications. During this session, working group leaders from EBUCore and PBCore will tell the story of this work, and how it can be leveraged by users of both communities.
 
-Presenters will provide use cases for both PBCore XML and PBCore/EBUCore RDF to demonstrate the different applications of the standards.
 
 ## Description and information for peer review (300 words maximum):
 
