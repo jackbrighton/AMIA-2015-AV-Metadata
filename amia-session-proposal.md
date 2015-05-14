@@ -31,7 +31,6 @@ Archivists using the PBCore standard will learn about changes in the PBCore 2.1 
 ## Presenters:
 
 Name: Kara Van Malssen
-
 Institution: AVPreserve
 Country: USA
 Email address: kara@avpreserve.com
