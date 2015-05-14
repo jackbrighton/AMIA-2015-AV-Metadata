@@ -6,6 +6,8 @@ Session Type: Panel Discussion
 
 Length of Session Requested: 60 minutes
 
+Here are AMIA's [Tips for a Successful Proposal](http://www.amiaconference.net/tips-for-a-successful-proposal/)
+
 ## Abstract for printed program (150 words maximum): 
 
 The adoption of PBCore in the United States has paralleled the rise of EBUCore in Europe as core metadata standards for audiovisual materials. During the past year, the two communities have formed a working group to explore ways to align PBCore and EBUCore for interoperability. Coinciding with the release of the PBCore 2.1 Schema in May 2015, it was decided to stop reinventing existing vocabularies, and instead leverage excellent work already completed by the European community. This paves the way for the adoption by PBCore of the EBUCore ontology, and unifying the vocabularies of both metadata standards. This means PBCore users can now also take advantage of EBUCore’s integration with RDF and semantic web applications. During this session, working group leaders from EBUCore and PBCore will tell the story of this work, and how it can be leveraged by users of both communities.
